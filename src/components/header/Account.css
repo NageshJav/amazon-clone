@@ -1,0 +1,20 @@
+.account {
+  padding: 0 1rem;
+  cursor: pointer;
+  color: white;
+}
+.account__hint {
+  display: flex;
+  font-size: var(--h6-size);
+  margin-bottom: 0.2rem;
+  color: white;
+}
+.account__title {
+  font-weight: bolder;
+  margin-right: 0.2rem;
+  color: white;
+}
+.account__arrow {
+  color: var(--hint-light-font-color);
+  margin-bottom: -0.5rem;
+}

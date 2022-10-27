@@ -1,0 +1,13 @@
+.header {
+  height: var(--header-height);
+  background-color: var(--theme-color-2);
+  color: var(--light-font-color);
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+.header__container {
+  padding: 0 1rem;
+  display: flex;
+  align-items: center;
+}
